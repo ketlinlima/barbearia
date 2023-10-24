@@ -2,10 +2,12 @@
 <html lang="pt-br">
   <head>
       <meta charset="UTF-8">
-       <title>barbearia Alura>
+       <title>barbearia Alura/title>
 
      <style>
-
+    p{
+        text-aling: center
+    }
   </head>
 
 
