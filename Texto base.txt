@@ -3,13 +3,10 @@
   <head>
       <meta charset="UTF-8">
        <title>barbearia Alura/title>
-
+      <link rel="sthylesheet" href="style.css">
      <style>
-    p{
-        text-aling: center
-    }
-  </head>
 
+  </head>
 
   <body>
     <h1 "style=text-align: center"> Sobre a Barbearia Alura</h1>
